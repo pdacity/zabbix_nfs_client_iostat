@@ -1,8 +1,6 @@
-> nfs_client_iostat
+> Version 1.0 - (20180110)
 
 ### Zabbix SNMP Template for NFS client iostat statistics
-
-> Version 1.0 - (20180110)
 
 for Zabbix 3.x (Zabbix 2.x was not tested)
 
