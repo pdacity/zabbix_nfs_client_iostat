@@ -10,9 +10,10 @@ iostat packet MUST be installed
 
 ### Install
 
-copy nfsio_perf.sh anf nfsio_discovery.sh into /etc/zabbix/bin
-copy userparameter_nfsio.conf into /etc/zabbix/zabbix_agent.d
-inport Template 
+* copy nfsio_perf.sh anf nfsio_discovery.sh into /etc/zabbix/bin
+* copy userparameter_nfsio.conf into /etc/zabbix/zabbix_agent.d
+* inport Template 
+* restart zabbix_agent
 
 ### Files
 
