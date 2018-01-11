@@ -21,3 +21,7 @@ iostat packet MUST be installed
 * nfsio_perf.sh - collect metrics
 * template_nfsio.xml - Zabbix template 
 * userparameter_nfsio.conf - Zabbix userparameters file
+
+### References
+
+* yumaojun03/zabbix_monitor - https://github.com/yumaojun03/zabbix_monitor
