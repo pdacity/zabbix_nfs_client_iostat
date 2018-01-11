@@ -1,6 +1,6 @@
 > Version 1.0 - (20180110)
 
-### Zabbix Template for NFS client iostat statistics
+### Zabbix LLD Template for NFS client iostat statistics
 
 for Zabbix 3.x (Zabbix 2.x was not tested)
 
