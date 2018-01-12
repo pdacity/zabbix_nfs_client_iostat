@@ -1,4 +1,4 @@
-> Version 1.1 - (20180110)
+> Version 1.1 - (20180112)
 
 ### Zabbix LLD Template for NFS client iostat statistics
 
@@ -25,3 +25,8 @@ iostat packet MUST be installed
 ### References
 
 * yumaojun03/zabbix_monitor - https://github.com/yumaojun03/zabbix_monitor
+
+### Version
+
+* 1.0 - initial
+* 1.1 - add "Read / Write kB/s", "Read / Write op/s" and "RPC request time" graphs into Template
