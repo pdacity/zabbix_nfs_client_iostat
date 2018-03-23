@@ -1,4 +1,4 @@
-> Version 1.1 - (20180112)
+> Version 1.1 - (20180113)
 
 ### Zabbix LLD Template for NFS client iostat statistics
 
