@@ -4,7 +4,7 @@
 ![PizzaWare](https://img.shields.io/badge/%F0%9F%8D%95-PizzaWare-orange)
 ![Tea powered](https://img.shields.io/badge/%F0%9F%8D%B5-tea%20powered-yellowgreen)
 
-> Version 1.1 - (20180113)
+> Version 1.2 - (20180113)
 
 for Zabbix 3.x (Zabbix 2.x was not tested)
 
@@ -34,3 +34,4 @@ iostat packet MUST be installed
 
 * 1.0 - initial
 * 1.1 - add "Read / Write kB/s", "Read / Write op/s" and "RPC request time" graphs into Template
+* 1.2 - get statistics for the period and not from the beginning of measurements, tnx https://github.com/alkolexx
