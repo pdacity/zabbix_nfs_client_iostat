@@ -15,6 +15,11 @@
 
 array="$(findmnt -lo target -n -t nfs,nfs4)"
 
+if [[ -z "$array" ]]; then
+    printf '%s' '{"data":[]}'
+    exit 0
+fi
+
 comma=""
 printf '%s' '{"data":['
 
